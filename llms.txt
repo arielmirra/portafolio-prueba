@@ -20,7 +20,7 @@ My primary stack is Scala, Java, Kotlin, Go and TypeScript. Outside Salesforce w
 
 ## Projects
 
-- [AMF (API Modeling Framework)](https://a.ml/docs): Open-source API-modeling framework consumed by 10+ products. Release 5.11.0 added OAS 3.2, AsyncAPI 3.0/3.1, JSON Schema 2020-12, GraphQL V2 and gRPC/proto3 support in one month, plus a ~45-page Docusaurus documentation site.
+- AMF (API Modeling Framework): Open-source API-modeling framework consumed by 10+ products. Release 5.11.0 added OAS 3.2, AsyncAPI 3.0/3.1, JSON Schema 2020-12, GraphQL V2 and gRPC/proto3 support in one month, plus a ~45-page Docusaurus documentation site.
 - anypoint-project-builder: Public npm package and OCLIF CLI extension for end-to-end OpenAPI 3.1/3.2 generate/validate workflows.
 - Agentic AI (Claude Code) automation skills: Internal tooling adopted team-wide: multi-repo release automation (5 days to 2-3 days), API-spec adoption tooling (~10x faster), Gov/FedRAMP security review automation (3-4 hours to 30 minutes) and incident RCA acceleration (4+ hours saved per incident).
 
