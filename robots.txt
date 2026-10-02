@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://arielmirra.github.io/portafolio-prueba/sitemap.xml
