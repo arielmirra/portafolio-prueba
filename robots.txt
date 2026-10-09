@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://arielmirra.github.io/portafolio-prueba/sitemap.xml
+Sitemap: https://arielmirra.github.io/portfolio/sitemap.xml

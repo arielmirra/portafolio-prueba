@@ -15,7 +15,7 @@ My primary stack is Scala, Java, Kotlin, Go and TypeScript. Outside Salesforce w
 - Software Engineer (AMTS), Salesforce (MuleSoft) (Apr 2021 - Aug 2022)
 - Software Engineering Intern, Salesforce (MuleSoft) (Oct 2019 - Apr 2021)
 - Founder, CoderHub (Jan 2023 - Present)
-- Profesor de Emprendedurismo e Innovación, Universidad Austral, Buenos Aires (Jan 2023 - Present)
+- Professor of Entrepreneurship and Innovation, Universidad Austral, Buenos Aires (Jan 2023 - Present)
 - Software Developer / Frontend Developer, Sirius Systems S.A.S. (Feb 2018 - Mar 2019)
 
 ## Projects
@@ -30,10 +30,10 @@ Scala, Java, Kotlin, Go, TypeScript, Spring, GraphQL, OpenAPI, Kubernetes, Terra
 
 ## Links
 
-- English: https://arielmirra.github.io/portafolio-prueba/
-- Español: https://arielmirra.github.io/portafolio-prueba/es/
+- English: https://arielmirra.github.io/portfolio/
+- Español: https://arielmirra.github.io/portfolio/es/
 - Email: arielmirra.com@gmail.com
 - LinkedIn: https://linkedin.com/in/arielmirra
 - GitHub: https://github.com/arielmirra
-- Download CV (en): https://arielmirra.github.io/portafolio-prueba/cv-ariel-mirra-en.pdf
-- Download CV (es): https://arielmirra.github.io/portafolio-prueba/cv-ariel-mirra-es.pdf
+- Download CV (en): https://arielmirra.github.io/portfolio/cv-ariel-mirra-en.pdf
+- Download CV (es): https://arielmirra.github.io/portfolio/cv-ariel-mirra-es.pdf
